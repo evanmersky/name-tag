@@ -28,3 +28,35 @@ header .logo {
 main {
     padding: 20px;
 }
+.nametag{
+    background: red;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 10px;
+    width: 400px;
+    padding-bottom: 10px;
+    
+ 
+}
+
+.name {
+    padding: 15px 0;
+
+    background: white;
+    color: black;
+    font-family: cursive;
+    font-size: 2em;
+}
+
+.pronouns {
+    padding: 15px 0;
+
+    background: white;
+    color: black;
+    font-family: cursive;
+    font-size: 0.5em;
+
+}
